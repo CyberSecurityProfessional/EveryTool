@@ -11,7 +11,7 @@ Wordlists
 ### Setup
 ```
 > Install Go - https://golang.org/doc/install
-> Clone FUFF - https://github.com/ffuf/ffuf
+> Clone FUFF - https://github.com/ffuf/ffuf (or) go get github.com/ffuf/ffuf
 ```
 ### Wordlists
 ```
