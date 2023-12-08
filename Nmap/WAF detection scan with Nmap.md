@@ -1,4 +1,4 @@
 # WAF detection scan
 ```
-nmap <target-ip> —scri=t=http-waf-detect
+nmap <target-ip> —script=http-waf-detect
 ```
