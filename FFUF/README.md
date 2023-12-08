@@ -6,7 +6,7 @@
 Setup
   > Go Lang
   > FFUF
-Wordlists
+Wordlists (for web fuzzing)
 ```
 ### Setup
 ```
@@ -15,6 +15,7 @@ Wordlists
 ```
 ### Wordlists
 ```
+Web fuzzing wordlists:
 > https://github.com/danielmiessler/SecLists
 > https://github.com/fuzzdb-project/fuzzdb
 > https://github.com/swisskyrepo/PayloadsAllTheThings
